@@ -1,0 +1,15 @@
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\bin\Debug\net7.0\variablesAndDataTypes.exe
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\bin\Debug\net7.0\variablesAndDataTypes.deps.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\bin\Debug\net7.0\variablesAndDataTypes.runtimeconfig.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\bin\Debug\net7.0\variablesAndDataTypes.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\bin\Debug\net7.0\variablesAndDataTypes.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.csproj.AssemblyReference.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.AssemblyInfoInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.AssemblyInfo.cs
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.csproj.CoreCompileInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\refint\variablesAndDataTypes.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\variablesAndDataTypes.genruntimeconfig.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\variablesAndDataTypes\obj\Debug\net7.0\ref\variablesAndDataTypes.dll
