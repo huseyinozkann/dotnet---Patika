@@ -1,0 +1,15 @@
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\bin\Debug\net7.0\operators.exe
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\bin\Debug\net7.0\operators.deps.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\bin\Debug\net7.0\operators.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\bin\Debug\net7.0\operators.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\refint\operators.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\operators\operators\obj\Debug\net7.0\ref\operators.dll
