@@ -1,0 +1,15 @@
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\bin\Debug\net7.0\typeConversions.exe
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\bin\Debug\net7.0\typeConversions.deps.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\bin\Debug\net7.0\typeConversions.runtimeconfig.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\bin\Debug\net7.0\typeConversions.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\bin\Debug\net7.0\typeConversions.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.csproj.AssemblyReference.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.AssemblyInfoInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.AssemblyInfo.cs
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.csproj.CoreCompileInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\refint\typeConversions.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\typeConversions.genruntimeconfig.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\typeConversions\obj\Debug\net7.0\ref\typeConversions.dll
