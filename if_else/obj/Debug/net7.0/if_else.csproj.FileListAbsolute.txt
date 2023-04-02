@@ -1,0 +1,15 @@
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\bin\Debug\net7.0\if_else.exe
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\bin\Debug\net7.0\if_else.deps.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\bin\Debug\net7.0\if_else.runtimeconfig.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\bin\Debug\net7.0\if_else.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\bin\Debug\net7.0\if_else.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.csproj.AssemblyReference.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.AssemblyInfoInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.AssemblyInfo.cs
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.csproj.CoreCompileInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\refint\if_else.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\if_else.genruntimeconfig.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\if_else\obj\Debug\net7.0\ref\if_else.dll
