@@ -1,0 +1,15 @@
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\bin\Debug\net7.0\while_foreach_loop.exe
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\bin\Debug\net7.0\while_foreach_loop.deps.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\bin\Debug\net7.0\while_foreach_loop.runtimeconfig.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\bin\Debug\net7.0\while_foreach_loop.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\bin\Debug\net7.0\while_foreach_loop.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.csproj.AssemblyReference.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.AssemblyInfoInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.AssemblyInfo.cs
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.csproj.CoreCompileInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\refint\while_foreach_loop.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\while_foreach_loop.genruntimeconfig.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\while_foreach_loop\obj\Debug\net7.0\ref\while_foreach_loop.dll
