@@ -1,0 +1,15 @@
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\bin\Debug\net7.0\try_catch_finally.exe
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\bin\Debug\net7.0\try_catch_finally.deps.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\bin\Debug\net7.0\try_catch_finally.runtimeconfig.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\bin\Debug\net7.0\try_catch_finally.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\bin\Debug\net7.0\try_catch_finally.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.csproj.AssemblyReference.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.AssemblyInfoInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.AssemblyInfo.cs
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.csproj.CoreCompileInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\refint\try_catch_finally.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\try_catch_finally.genruntimeconfig.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\try_catch_finally\obj\Debug\net7.0\ref\try_catch_finally.dll
