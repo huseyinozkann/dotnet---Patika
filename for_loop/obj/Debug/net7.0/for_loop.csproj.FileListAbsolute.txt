@@ -1,0 +1,15 @@
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\bin\Debug\net7.0\for_loop.exe
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\bin\Debug\net7.0\for_loop.deps.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\bin\Debug\net7.0\for_loop.runtimeconfig.json
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\bin\Debug\net7.0\for_loop.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\bin\Debug\net7.0\for_loop.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.csproj.AssemblyReference.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.AssemblyInfoInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.AssemblyInfo.cs
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.csproj.CoreCompileInputs.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\refint\for_loop.dll
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.pdb
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\for_loop.genruntimeconfig.cache
+G:\PROGRAMLAMA\KODLUYORUZ\C#\for_loop\obj\Debug\net7.0\ref\for_loop.dll
